@@ -1,0 +1,10 @@
+numpy
+pillow
+matplotlib
+nltk
+tqdm
+requests
+torch
+transformers
+sentence-transformers
+faiss-cpu
